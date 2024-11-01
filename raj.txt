@@ -1,0 +1,3 @@
+{"user_id": 5697460202, "plan": 999, "valid_until": "2298-08-16", "access_count": 0}
+{"user_id": 7962344728, "plan": 99, "valid_until": "2298-08-16", "access_count": 0}
+{"user_id": 7161138929, "plan": 1, "valid_until": "2298-08-16", "access_count": 0}
